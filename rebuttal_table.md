@@ -32,7 +32,7 @@
 
 ### Table G. Scalability analysis (PSNR/SSIM) with increasing model size. We compare dense models and SHIELD-PR across different parameter counts, where SHIELD-PR models are obtained by pruning the corresponding dense models.
 
-| Datasets   | Dense (1M)     | SHIELD-PR (0.7M) | Dense (1.5M)   | SHIELD-PR (1.3M) | Dense (2M)     | SHIELD-PR (1.7M) |
-|------------|----------------|------------------|----------------|------------------|----------------|------------------|
-| Tampere17  | 23.56 / 0.652  | 23.63 / 0.675    | 23.58 / 0.653  | 23.65 / 0.671    | 23.72 / 0.658  | 23.60 / 0.673    |
-| Kodak24    | 24.13 / 0.644  | 24.12 / 0.683    | 24.22 / 0.656  | 24.13 / 0.682    | 24.28 / 0.654  | 24.20 / 0.684    |
+| Datasets   | Dense (1M)   | SHIELD-PR (0.7M) | Dense (1.5M) | SHIELD-PR (1.04M) | Dense (2M)   | SHIELD-PR (1.39M) |
+|------------|-------------|------------------|--------------|-------------------|--------------|-------------------|
+| Tampere17  | 23.56/0.652 | 23.63/0.675      | 23.58/0.653  | 23.59/0.676       | 23.72/0.658  | 23.52/0.670       |
+| Kodak24    | 24.13/0.644 | 24.12/0.683      | 24.22/0.656  | 24.23/0.682       | 24.28/0.654  | 24.10/0.677       |
