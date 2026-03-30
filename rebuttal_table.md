@@ -10,7 +10,10 @@
 
 ### Table B. Quantitative comparison on synthetic (Rain100L) and real-world (SPA) deraining datasets. PSNR/SSIM are reported for Rain100L, and NIQE/PI for SPA.
 > **Bold** = best, _italic_ = second-best
-
+| Datasets                                   | Rainy        | N2V          | R2A              | SHIELD-PR           |
+|-------------------------------------------|-------------|-------------|------------------|---------------------|
+| Rain100L (PSNR↑ / SSIM↑)                  | 25.52/0.814 | 24.67/0.766 | *26.97/0.828*    | **29.07/0.897**     |
+| SPA (NIQE↓ / PI↓)                         | 7.148/6.358 | 7.586/6.665 | *6.801/6.177*    | **6.303/5.715**     |
 
 
 ### Table C. Quantitative comparison (PSNR/SSIM) under mixed degradation settings. We evaluate inpainting (50\% random mask) + Gaussian noise ($\sigma=25$) and super-resolution ($\times2$) + Gaussian noise ($\sigma=25$). 
