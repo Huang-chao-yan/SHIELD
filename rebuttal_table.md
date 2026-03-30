@@ -29,6 +29,9 @@
 |            | Kodak24    | 19.22/0.244 | 24.69/0.642 | 24.75/0.648 | *24.99*/*0.659* | **25.11**/**0.660** |
 
 ### Table D. Distribution mismatch (XENA and BSD300) denoising results (PSNR/SSIM).
+
+> **Bold** = best, _italic_ = second-best
+
 | Train  | Test  | Noisy        | Dense        | SHIELD-P     | SHIELD-R     | SHIELD-PR     |
 |--------|-------|-------------|-------------|-------------|-------------|--------------|
 | XENA   | BSD300| 20.52/0.422 | 16.83/0.827 | 16.88/0.815 | *17.12/0.837* | **18.09/0.840**  |
