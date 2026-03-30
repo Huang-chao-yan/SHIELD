@@ -214,4 +214,64 @@
 
 ### Figure E. Mixed Degradation (Gaussian noise ($\sigma$ = 25) with 50\% random masking ) results (PSNR/SSIM) on datasets Kodak24 (first row) and Tampere17 (second row). From left to right: ground truth, masked input, Dense Noise2Noise, SHIELD-P, SHIELD-R, and SHIELD-PR.
 
-### Figure F. SR
+<table style="border:none;">
+
+  <!-- Row 1: Kodak24 -->
+  <tr>
+    <td align="center" style="border:none;">
+      <img src="experiments/Kodak-gt/kodim11.png" width="140px"><br>
+      <sub>(a) Kodak24<br>∞ / 1</sub>
+    </td>
+    <td align="center" style="border:none;">
+      <img src="experiments/Kodak24-SR-noisy/measurement_image_10.png" width="140px"><br>
+      <sub>(b) Degradation<br>18.89 / 0.352</sub>
+    </td>
+    <td align="center" style="border:none;">
+      <img src="experiments/N2N-super-resolution-kodak-results/Dense-Kodak-SR-results/img_9600_val_10_pred.png" width="140px"><br>
+      <sub>(c) Dense<br>25.11 / 0.626</sub>
+    </td>
+    <td align="center" style="border:none;">
+      <img src="experiments/N2N-super-resolution-kodak-results/P-Kodak-SR-results/img_8600_val_10_pred.png" width="140px"><br>
+      <sub>(d) SHIELD-P<br>25.35 / 0.646</sub>
+    </td>
+    <td align="center" style="border:none;">
+      <img src="experiments/N2N-super-resolution-kodak-results/R-Kodak-SR-results/img_6800_val_10_pred.png" width="140px"><br>
+      <sub>(e) SHIELD-R<br>25.34 / 0.645</sub>
+    </td>
+    <td align="center" style="border:none;">
+      <img src="experiments/N2N-super-resolution-kodak-results/PR-Kodak-SR-results/img_7000_val_10_pred.png" width="140px"><br>
+      <sub>(f) SHIELD-PR<br>27.30 / 0.702</sub>
+    </td>
+  </tr>
+
+  <!-- Row 2: Tampere17 -->
+  <tr>
+    <td align="center" style="border:none;">
+      <img src="experiments/Tampere17/t007.png" width="140px"><br>
+      <sub>(a) Tampere17<br>∞ / 1</sub>
+    </td>
+    <td align="center" style="border:none;">
+      <img src="experiments/Tampere17-SR-noisy/measurement_image_6.png" width="140px"><br>
+      <sub>(b) Degradation<br>17.63 / 0.227</sub>
+    </td>
+    <td align="center" style="border:none;">
+      <img src="experiments/N2N-super-resolution-tampere-results/Dense-Tampere-SR-results/img_8800_val_6_pred.png" width="140px"><br>
+      <sub>(c) Dense<br>21.75 / 0.499</sub>
+    </td>
+    <td align="center" style="border:none;">
+      <img src="experiments/N2N-super-resolution-tampere-results/P-Tampere-SR-results/img_8600_val_6_pred.png" width="140px"><br>
+      <sub>(d) SHIELD-P<br>23.90 / 0.516</sub>
+    </td>
+    <td align="center" style="border:none;">
+      <img src="experiments/N2N-super-resolution-tampere-results/R-Tampere-SR-results/img_9000_val_6_pred.png" width="140px"><br>
+      <sub>(e) SHIELD-R<br>23.87 / 0.516</sub>
+    </td>
+    <td align="center" style="border:none;">
+      <img src="experiments/N2N-super-resolution-tampere-results/PR-Tampere-SR-results/img_8600_val_6_pred.png" width="140px"><br>
+      <sub>(f) SHIELD-PR<br>24.14 / 0.520</sub>
+    </td>
+  </tr>
+
+</table>
+
+### Figure F. Mixed degradation (Gaussian noise (σ = 25) with 2× bicubic downsampling) results (PSNR/SSIM) on datasets Kodak24 (top) and Tampere17 (bottom). From left to right: ground truth, degraded input, Dense Noise2Noise, SHIELD-P, SHIELD-R, and SHIELD-PR.
