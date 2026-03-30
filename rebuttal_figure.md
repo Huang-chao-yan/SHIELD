@@ -11,12 +11,12 @@
   <img src="experiments/Inpainting/Kodak/shield_pr.png" width="16%" />
 </p>
 <p align="center">
-  <span style="display:inline-block; width:16%">(a) GT</span>
-  <span style="display:inline-block; width:16%">(b) Degradation</span>
-  <span style="display:inline-block; width:16%">(c) Dense</span>
-  <span style="display:inline-block; width:16%">(d) SHIELD-P</span>
-  <span style="display:inline-block; width:16%">(e) SHIELD-R</span>
-  <span style="display:inline-block; width:16%">(f) SHIELD-PR</span>
+  <span style="display:inline-block; width:16%">(a) GT ($\infty$/1)</span>
+  <span style="display:inline-block; width:16%">(b) Degradation (11.49 / 0.136)</span>
+  <span style="display:inline-block; width:16%">(c) Dense (31.78 / 0.837)</span>
+  <span style="display:inline-block; width:16%">(d) SHIELD-P (31.76 / 0.837)</span>
+  <span style="display:inline-block; width:16%">(e) SHIELD-R (31.52 / 0.820)</span>
+  <span style="display:inline-block; width:16%">(f) SHIELD-PR (32.08 / 0.838)</span>
 </p>
 
 <p align="center">
