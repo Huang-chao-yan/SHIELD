@@ -8,10 +8,8 @@
 | Kodak24   | 20.44/0.350 | 25.16/0.692 | 25.49/0.675 | 27.20/0.699 | 24.57/0.627 | 27.06/0.678 | 28.35/0.756 | **30.82**/*0.838* | *30.58*/**0.839** |
 | Set14     | 20.59/0.436 | 22.67/0.644 | 22.13/0.602 | 24.45/0.625 | 25.16/0.707 | 26.50/0.724 | 26.43/0.748 | *28.57*/*0.813* | **28.67**/**0.824** |
 
-### Table C. Quantitative comparison (PSNR/SSIM) under mixed degradation settings
+### Table C. Quantitative comparison (PSNR/SSIM) under mixed degradation settings. We evaluate inpainting (50\% random mask) + Gaussian noise ($\sigma=25$) and super-resolution ($\times2$) + Gaussian noise ($\sigma=25$). 
 
-> Inpainting (50% random mask) + Gaussian noise (σ = 25)  
-> Super-resolution (×2) + Gaussian noise (σ = 25)  
 > **Bold** = best, *italic* = second-best
 
 | Tasks      | Datasets   | degradation | Dense        | SHIELD-P     | SHIELD-R         | SHIELD-PR         |
