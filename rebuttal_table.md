@@ -1,4 +1,4 @@
-### Table A. Quantitative comparison (PSNR/SSIM) with state-of-the-art methods under Gaussian noise (σ = 25).
+### Table A. Quantitative comparison (PSNR/SSIM) with state-of-the-art methods for image denoising under Gaussian noise ($\sigma=25$).
 
 > **Bold** = best, _italic_ = second-best
 
