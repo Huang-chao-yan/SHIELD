@@ -243,35 +243,36 @@
       <sub>(f) SHIELD-PR<br>27.30 / 0.702</sub>
     </td>
   </tr>
-
   <!-- Row 2: Tampere17 -->
   <tr>
     <td align="center" style="border:none;">
-      <img src="experiments/Tampere17/t007.png" width="140px"><br>
+      <img src="experiments/Tampere17/t006.png" width="140px"><br>
       <sub>(a) Tampere17<br>∞ / 1</sub>
     </td>
     <td align="center" style="border:none;">
-      <img src="experiments/Tampere17-SR-noisy/measurement_image_6.png" width="140px"><br>
-      <sub>(b) Degradation<br>17.63 / 0.227</sub>
+      <img src="experiments/Tampere17-SR-noisy/measurement_image_5.png" width="140px"><br>
+      <sub>(b) Degradation<br>21.74 / 0.429</sub>
     </td>
     <td align="center" style="border:none;">
-      <img src="experiments/N2N-super-resolution-tampere-results/Dense-Tampere-SR-results/img_8800_val_6_pred.png" width="140px"><br>
-      <sub>(c) Dense<br>21.75 / 0.499</sub>
+      <img src="experiments/N2N-super-resolution-tampere-results/Dense-Tampere-SR-results/img_9000_val_5_pred.png" width="140px"><br>
+      <sub>(c) Dense<br>27.71 / 0.772</sub>
     </td>
     <td align="center" style="border:none;">
-      <img src="experiments/N2N-super-resolution-tampere-results/P-Tampere-SR-results/img_8600_val_6_pred.png" width="140px"><br>
-      <sub>(d) SHIELD-P<br>23.90 / 0.516</sub>
+      <img src="experiments/N2N-super-resolution-tampere-results/P-Tampere-SR-results/img_8800_val_5_pred.png" width="140px"><br>
+      <sub>(d) SHIELD-P<br>28.04 / 0.801</sub>
     </td>
     <td align="center" style="border:none;">
-      <img src="experiments/N2N-super-resolution-tampere-results/R-Tampere-SR-results/img_9000_val_6_pred.png" width="140px"><br>
-      <sub>(e) SHIELD-R<br>23.87 / 0.516</sub>
+      <img src="experiments/N2N-super-resolution-tampere-results/R-Tampere-SR-results/img_7800_val_5_pred.png" width="140px"><br>
+      <sub>(e) SHIELD-R<br>27.84 / 0.781</sub>
     </td>
     <td align="center" style="border:none;">
-      <img src="experiments/N2N-super-resolution-tampere-results/PR-Tampere-SR-results/img_8600_val_6_pred.png" width="140px"><br>
-      <sub>(f) SHIELD-PR<br>24.14 / 0.520</sub>
+      <img src="experiments/N2N-super-resolution-tampere-results/PR-Tampere-SR-results/img_8000_val_5_pred.png" width="140px"><br>
+      <sub>(f) SHIELD-PR<br>28.16 / 0.801</sub>
     </td>
   </tr>
 
 </table>
 
-### Figure F. Mixed degradation (Gaussian noise (σ = 25) with 2× bicubic downsampling) results (PSNR/SSIM) on datasets Kodak24 (top) and Tampere17 (bottom). From left to right: ground truth, degraded input, Dense Noise2Noise, SHIELD-P, SHIELD-R, and SHIELD-PR.
+### Figure F. Mixed degradation (Gaussian noise (\sigma = 25) with 2 \times bicubic downsampling) results (PSNR/SSIM) on datasets Kodak24 (top) and Tampere17 (bottom). From left to right: ground truth, degraded input, Dense Noise2Noise, SHIELD-P, SHIELD-R, and SHIELD-PR.
+
+
