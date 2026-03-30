@@ -273,6 +273,6 @@
 
 </table>
 
-### Figure F. Mixed degradation (Gaussian noise (\sigma = 25) with 2 \times bicubic downsampling) results (PSNR/SSIM) on datasets Kodak24 (top) and Tampere17 (bottom). From left to right: ground truth, degraded input, Dense Noise2Noise, SHIELD-P, SHIELD-R, and SHIELD-PR.
+### Figure F. Mixed degradation (Gaussian noise ($\sigma = 25$) with $2 \times$ bicubic downsampling) results (PSNR/SSIM) on datasets Kodak24 (top) and Tampere17 (bottom). From left to right: ground truth, degraded input, Dense Noise2Noise, SHIELD-P, SHIELD-R, and SHIELD-PR.
 
 
