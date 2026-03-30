@@ -47,8 +47,10 @@
   </tr>
 </table>
 
-### Figure. Visual comparisons on real-world noisy images. (a) Input images, followed by results from (b) Dense N2N, (c) SHIELD-P, (d) SHIELD-R, and (e) SHIELD-PR.
+### Figure A. Visual comparisons on real-world noisy images. (a) Input images, followed by results from (b) Dense N2N, (c) SHIELD-P, (d) SHIELD-R, and (e) SHIELD-PR.
 
+
+### Figure B. Denoising results (PSNR/SSIM) for Gaussian noise with $\sigma$ = 25. (a) is the ground truth, (b) is the noise input, and the denoising results are shown for (c) Noise2Noise, (d) AP-BSN, (e) PUCA, (f) UGoDIT, (g) SITCOM, and (h) our SHIELD-PR (N2N). 
 
 <table style="border:none;">
   <!-- Row 2 -->
@@ -92,7 +94,7 @@
 
 </table>
 
-### Figure. Visual comparison on real-data image deraining (NIQE$\downarrow$/PI$\downarrow$). From left to right: (a) Rainy Input, (b) Noise2Void, (c) Rain2Avoid, and (d) SHIELD-PR. 
+### Figure C. Visual comparison on real-data image deraining (NIQE$\downarrow$/PI$\downarrow$). From left to right: (a) Rainy Input, (b) Noise2Void, (c) Rain2Avoid, and (d) SHIELD-PR. 
 
 
 
@@ -152,7 +154,7 @@
   </tr>
 </table>
 
-### Figure. Inpainting results (PSNR/SSIM) with 50\% random masking on datasets Kodak24 (first row) and Tampere17 (second row). From left to right: ground truth, masked input, Dense Noise2Noise, SHIELD-P, SHIELD-R, and SHIELD-PR.
+### Figure D. Inpainting results (PSNR/SSIM) with 50\% random masking on datasets Kodak24 (first row) and Tampere17 (second row). From left to right: ground truth, masked input, Dense Noise2Noise, SHIELD-P, SHIELD-R, and SHIELD-PR.
 
 <table style="border:none;">
   <tr>
@@ -210,4 +212,6 @@
   </tr>
 </table>
 
-### Figure. Mixed Degradation (Gaussian noise ($\sigma$ = 25) with 50\% random masking ) results (PSNR/SSIM) on datasets Kodak24 (first row) and Tampere17 (second row). From left to right: ground truth, masked input, Dense Noise2Noise, SHIELD-P, SHIELD-R, and SHIELD-PR.
+### Figure E. Mixed Degradation (Gaussian noise ($\sigma$ = 25) with 50\% random masking ) results (PSNR/SSIM) on datasets Kodak24 (first row) and Tampere17 (second row). From left to right: ground truth, masked input, Dense Noise2Noise, SHIELD-P, SHIELD-R, and SHIELD-PR.
+
+### Figure F. SR
