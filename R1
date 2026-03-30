@@ -1,0 +1,7 @@
+Rebuttal: 
+
+Thank you for the thoughtful and constructive feedback. We appreciate the recognition of the practical importance of the problem, the empirical performance across different corruption settings, and the long-horizon analysis. Below we respond to each point.
+(W1) Limited novelty and engineering contribution
+We thank the reviewer for recognizing the practical aspects of our work. However, we would like to clarify that our contribution goes beyond an engineering combination of existing techniques.
+In the low-data regime, we find that standard self-supervised models (e.g., Noise2Noise) consistently show catastrophic overfitting (Fig. 1 (a)). Existing regularization can delay this effect, but does not prevent performance degradation or improve the final result (Fig. 1 (b), (c), (d)). This behavior is closely related to over-parameterization and noise memorization. We then study pruning and find that it helps reduce over-parameterization and suppress noise memorization, but introduces a critical trade-off that over-pruning degrades representation capacity, while under-pruning fails to suppress noise memorization (as shown in Fig. 7).
+This observation suggests that capacity control alone is insufficient to ensure robust learning. The regularization term plays a complementary role by enforcing prediction consistency across noisy inputs, which helps recover signal structure and stabilize training, particularly in high corruption regimes (as shown in Fig. 10).
