@@ -3,46 +3,46 @@
   <tr>
     <td align="center" style="border:none;">
       <img src="experiments/real3/palace/input_noisy.png" width="160px"><br>
-      <sub>(b) Degradation<br>11.49 / 0.136</sub>
+      <sub>(a) Real3-Noisy</sub>
     </td>
     <td align="center" style="border:none;">
       <img src="experiments/real3/palace/dense.png" width="160px"><br>
-      <sub>(c) Dense<br>31.78 / 0.837</sub>
+      <sub>(b) Dense</sub>
     </td>
     <td align="center" style="border:none;">
       <img src="experiments/real3/palace/shield_p.png" width="160px"><br>
-      <sub>(d) SHIELD-P<br>31.76 / 0.837</sub>
+      <sub>(c) SHIELD-P</sub>
     </td>
     <td align="center" style="border:none;">
       <img src="experiments/real3/palace/shield_r.png" width="160px"><br>
-      <sub>(e) SHIELD-R<br>31.52 / 0.820</sub>
+      <sub>(d) SHIELD-R</sub>
     </td>
     <td align="center" style="border:none;">
       <img src="experiments/real3/palace/shield_pr.png" width="160px"><br>
-      <sub>(f) SHIELD-PR<br>32.08 / 0.838</sub>
+      <sub>(e) SHIELD-PR</sub>
     </td>
   </tr>
 
   <tr>
     <td align="center" style="border:none;">
       <img src="experiments/real9/sample-009/input_noisy.png" width="160px"><br>
-      <sub>(b) Degradation<br>7.96 / 0.140</sub>
+      <sub>(a) Real9-Noisy</sub>
     </td>
     <td align="center" style="border:none;">
       <img src="experiments/real9/sample-009/dense.png" width="160px"><br>
-      <sub>(c) Dense<br>26.31 / 0.898</sub>
+      <sub>(b) Dense</sub>
     </td>
     <td align="center" style="border:none;">
       <img src="experiments/real9/sample-009/shield_p.png" width="160px"><br>
-      <sub>(d) SHIELD-P<br>26.72 / 0.904</sub>
+      <sub>(c) SHIELD-P</sub>
     </td>
     <td align="center" style="border:none;">
       <img src="experiments/real9/sample-009/shield_r.png" width="160px"><br>
-      <sub>(e) SHIELD-R<br>27.05 / 0.900</sub>
+      <sub>(d) SHIELD-R</sub>
     </td>
     <td align="center" style="border:none;">
       <img src="experiments/real9/sample-009/shield_pr.png" width="160px"><br>
-      <sub>(f) SHIELD-PR<br>27.17 / 0.901</sub>
+      <sub>(e) SHIELD-PR</sub>
     </td>
   </tr>
 </table>
