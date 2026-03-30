@@ -41,6 +41,13 @@
 
 ### Table F. Quantitative comparison (NIQE) of the real-world noise dataset. 
 
+> **Bold** = best, _italic_ = second-best
+
+| Datasets | Dense        | SHIELD-P       | SHIELD-R       | SHIELD-PR |
+|----------|-------------|----------------|----------------|-----------|
+| Real3    | *5.08*      | **4.78**       | 5.33           | 5.17      |
+| Real9    | *5.84*      | 5.99           | **5.66**       | 6.26      |
+
 ### Table G. Scalability analysis (PSNR/SSIM) with increasing model size. We compare dense models and SHIELD-PR across different parameter counts, where SHIELD-PR models are obtained by pruning the corresponding dense models.
 
 | Datasets   | Dense (1M)        | SHIELD-PR (0.7M)        | Dense (1.5M)     | SHIELD-PR (1.04M)        | Dense (2M)        | SHIELD-PR (1.39M)        |
