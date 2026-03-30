@@ -51,122 +51,48 @@
 
 
 <table style="border:none;">
-
-  <!-- Row 1 -->
-  <tr>
-    <td align="center" style="border:none;">
-      <img src="experiments/Deraining-real-data/ldgp-norain-33.png" width="140px"><br>
-      <sub>(a) Rainmask-33</sub>
-    </td>
-    <td align="center" style="border:none;">
-      <img src="experiments/Deraining-real-data/GT-norain-33.png" width="140px"><br>
-      <sub>(b) SPA-33<br>/</sub>
-    </td>
-    <td align="center" style="border:none;">
-      <img src="experiments/Deraining-real-data/rainy-norain-33.png" width="140px"><br>
-      <sub>(c) Rainy<br>4.7856 / 3.4067</sub>
-    </td>
-    <td align="center" style="border:none;">
-      <img src="experiments/Deraining-real-data/N2V-deraining-norain-33.png" width="140px"><br>
-      <sub>(d) N2V<br>4.8136 / 3.4206</sub>
-    </td>
-    <td align="center" style="border:none;">
-      <img src="experiments/Deraining-real-data/R2A-deraining-norain-33.png" width="140px"><br>
-      <sub>(e) R2A<br>4.6939 / 3.5288</sub>
-    </td>
-    <td align="center" style="border:none;">
-      <img src="experiments/Deraining-real-data/PR-deraining-norain-33.png" width="140px"><br>
-      <sub>(f) SHIELD-PR<br>4.2753 / 3.1846</sub>
-    </td>
-  </tr>
-
   <!-- Row 2 -->
   <tr>
     <td align="center" style="border:none;">
-      <img src="experiments/Deraining-real-data/ldgp-norain-696.png" width="140px"><br>
-      <sub>(a) Rainmask-696</sub>
-    </td>
-    <td align="center" style="border:none;">
-      <img src="experiments/Deraining-real-data/GT-norain-696.png" width="140px"><br>
-      <sub>(b) SPA-696<br>/</sub>
-    </td>
-    <td align="center" style="border:none;">
       <img src="experiments/Deraining-real-data/rainy-norain-696.png" width="140px"><br>
-      <sub>(c) Rainy<br>5.2628 / 5.4148</sub>
+      <sub>(a) Rainy<br>5.2628 / 5.4148</sub>
     </td>
     <td align="center" style="border:none;">
       <img src="experiments/Deraining-real-data/N2V-deraining-norain-696.png" width="140px"><br>
-      <sub>(d) N2V<br>6.6050 / 5.5473</sub>
+      <sub>(b) N2V<br>6.6050 / 5.5473</sub>
     </td>
     <td align="center" style="border:none;">
       <img src="experiments/Deraining-real-data/R2A-deraining-norain-696.png" width="140px"><br>
-      <sub>(e) R2A<br>4.2619 / 5.0264</sub>
+      <sub>(c) R2A<br>4.2619 / 5.0264</sub>
     </td>
     <td align="center" style="border:none;">
       <img src="experiments/Deraining-real-data/PR-deraining-norain-696.png" width="140px"><br>
-      <sub>(f) SHIELD-PR<br>4.0698 / 4.7136</sub>
+      <sub>(d) SHIELD-PR<br>4.0698 / 4.7136</sub>
     </td>
   </tr>
-
-  <!-- Row 3 -->
-  <tr>
-    <td align="center" style="border:none;">
-      <img src="experiments/Deraining-real-data/ldgp-norain-76.png" width="140px"><br>
-      <sub>(a) Rainmask-76</sub>
-    </td>
-    <td align="center" style="border:none;">
-      <img src="experiments/Deraining-real-data/GT-norain-76.png" width="140px"><br>
-      <sub>(b) SPA-76<br>/</sub>
-    </td>
-    <td align="center" style="border:none;">
-      <img src="experiments/Deraining-real-data/rainy-norain-76.png" width="140px"><br>
-      <sub>(c) Rainy<br>7.8996 / 7.9701</sub>
-    </td>
-    <td align="center" style="border:none;">
-      <img src="experiments/Deraining-real-data/N2V-deraining-norain-76.png" width="140px"><br>
-      <sub>(d) N2V<br>7.9522 / 7.9160</sub>
-    </td>
-    <td align="center" style="border:none;">
-      <img src="experiments/Deraining-real-data/R2A-deraining-norain-76.png" width="140px"><br>
-      <sub>(e) R2A<br>7.6126 / 7.9318</sub>
-    </td>
-    <td align="center" style="border:none;">
-      <img src="experiments/Deraining-real-data/PR-deraining-norain-76.png" width="140px"><br>
-      <sub>(f) SHIELD-PR<br>7.1110 / 7.5420</sub>
-    </td>
-  </tr>
-
   <!-- Row 4 -->
   <tr>
     <td align="center" style="border:none;">
-      <img src="experiments/Deraining-real-data/ldgp-norain-91.png" width="140px"><br>
-      <sub>(a) Rainmask-91</sub>
-    </td>
-    <td align="center" style="border:none;">
-      <img src="experiments/Deraining-real-data/GT-norain-91.png" width="140px"><br>
-      <sub>(b) SPA-91<br>/</sub>
-    </td>
-    <td align="center" style="border:none;">
       <img src="experiments/Deraining-real-data/rainy-norain-91.png" width="140px"><br>
-      <sub>(c) Rainy<br>7.6977 / 6.8713</sub>
+      <sub>(a) Rainy<br>7.6977 / 6.8713</sub>
     </td>
     <td align="center" style="border:none;">
       <img src="experiments/Deraining-real-data/N2V-deraining-norain-91.png" width="140px"><br>
-      <sub>(d) N2V<br>8.3387 / 7.0712</sub>
+      <sub>(b) N2V<br>8.3387 / 7.0712</sub>
     </td>
     <td align="center" style="border:none;">
       <img src="experiments/Deraining-real-data/R2A-deraining-norain-91.png" width="140px"><br>
-      <sub>(e) R2A<br>6.9029 / 6.6334</sub>
+      <sub>(c) R2A<br>6.9029 / 6.6334</sub>
     </td>
     <td align="center" style="border:none;">
       <img src="experiments/Deraining-real-data/PR-deraining-norain-91.png" width="140px"><br>
-      <sub>(f) SHIELD-PR<br>6.5475 / 6.3197</sub>
+      <sub>(d) SHIELD-PR<br>6.5475 / 6.3197</sub>
     </td>
   </tr>
 
 </table>
 
-### Figure. Visual comparison on real-data image deraining. From left to right: (a) Rainmask, (b) Ground Truth, (c) Rainy Input, (d) Noise2Void, (e) Rain2Avoid, and (f) SHIELD-PR. NIQE/PI scores are shown below.
+### Figure. Visual comparison on real-data image deraining (NIQE$\downarrow$/PI$\downarrow$). From left to right: (a) Rainy Input, (b) Noise2Void, (c) Rain2Avoid, and (d) SHIELD-PR. 
 
 
 
