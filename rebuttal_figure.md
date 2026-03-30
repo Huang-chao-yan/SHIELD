@@ -11,7 +11,7 @@
   <img src="experiments/Inpainting/Kodak/shield_pr.png" width="16%" />
 </p>
 <p>
-(a) GT  &nbsp;&nbsp;
+(a) GT  &nbsp;&nbsp; width="16%
 (b) Degradation  &nbsp;&nbsp;
 (c) Dense  &nbsp;&nbsp;
 (d) SHIELD-P  &nbsp;&nbsp;
