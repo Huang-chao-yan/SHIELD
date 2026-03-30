@@ -1,4 +1,3 @@
-### Inpainting results (PSNR / SSIM)
 
 <table style="border:none;">
   <tr>
@@ -56,4 +55,4 @@
   </tr>
 </table>
 
-**Figure.** Inpainting results (PSNR/SSIM) with 50% random masking on Kodak24 (top) and Tampere17 (bottom).
+### Figure. Inpainting results (PSNR/SSIM) with 50\% random masking on datasets Kodak24 (first row) and Tampere17 (second row). From left to right: ground truth, masked input, Dense Noise2Noise, SHIELD-P, SHIELD-R, and SHIELD-PR.
