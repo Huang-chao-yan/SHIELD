@@ -10,21 +10,22 @@
   <img src="experiments/Inpainting/Kodak/shield_r.png" width="16%" />
   <img src="experiments/Inpainting/Kodak/shield_pr.png" width="16%" />
 </p>
-<p>
-(a) GT  &nbsp;&nbsp; width="16%
-(b) Degradation  &nbsp;&nbsp;
-(c) Dense  &nbsp;&nbsp;
-(d) SHIELD-P  &nbsp;&nbsp;
-(e) SHIELD-R  &nbsp;&nbsp;
-(f) SHIELD-PR  
+<p align="center">
+  <span style="display:inline-block; width:16%">(a) GT</span>
+  <span style="display:inline-block; width:16%">(b) Degradation</span>
+  <span style="display:inline-block; width:16%">(c) Dense</span>
+  <span style="display:inline-block; width:16%">(d) SHIELD-P</span>
+  <span style="display:inline-block; width:16%">(e) SHIELD-R</span>
+  <span style="display:inline-block; width:16%">(f) SHIELD-PR</span>
 </p>
-<p>
-(a)  (∞ / 1) &nbsp;&nbsp;
-(b)  (11.49 / 0.136) &nbsp;&nbsp;
-(c)  (31.78 / 0.837) &nbsp;&nbsp;
-(d)  (31.76 / 0.837) &nbsp;&nbsp;
-(e)  (31.52 / 0.820) &nbsp;&nbsp;
-(f)  (32.08 / 0.838)
+
+<p align="center">
+  <span style="display:inline-block; width:16%">∞ / 1</span>
+  <span style="display:inline-block; width:16%">11.49 / 0.136</span>
+  <span style="display:inline-block; width:16%">31.78 / 0.837</span>
+  <span style="display:inline-block; width:16%">31.76 / 0.837</span>
+  <span style="display:inline-block; width:16%">31.52 / 0.820</span>
+  <span style="display:inline-block; width:16%">32.08 / 0.838</span>
 </p>
 ---
 
