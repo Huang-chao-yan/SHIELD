@@ -5,6 +5,7 @@
 
 <p float="left">
   <img src="experiments/Inpainting/Kodak/gt.png" width="16%" />
+  (a) GT (∞ / 1) 
   <img src="experiments/Inpainting/Kodak/degradation.png" width="16%" />
   <img src="experiments/Inpainting/Kodak/n2n.png" width="16%" />
   <img src="experiments/Inpainting/Kodak/shield_p.png" width="16%" />
@@ -12,7 +13,7 @@
   <img src="experiments/Inpainting/Kodak/shield_pr.png" width="16%" />
 </p>
 
-(a) GT (∞ / 1) (b) Degradation (11.49 / 0.136) (c) Dense (31.78 / 0.837)  
+(b) Degradation (11.49 / 0.136) (c) Dense (31.78 / 0.837)  
 (d) SHIELD-P (31.76 / 0.837) (e) SHIELD-R (31.52 / 0.820) (f) SHIELD-PR (32.08 / 0.838)
 
 ---
