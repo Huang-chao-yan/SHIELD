@@ -37,7 +37,7 @@
 | XENA   | BSD300| 20.52/0.422 | 16.83/0.827 | 16.88/0.815 | *17.12/0.837* | **18.09/0.840**  |
 | BSD300 | XENA  | 21.61/0.325 | 25.29/0.546 | 25.37/0.545 | *26.27/0.617* | **26.50/0.634**  |
 
-### Table E. Analysis of self-supervised models in quantitative comparison (PSNR/SSIM) of denosing.
+### Table E. Analysis of self-supervised models in quantitative comparison (PSNR/SSIM) of denoising.
 
 ### Table F. Quantitative comparison (NIQE) of the real-world noise dataset. 
 
