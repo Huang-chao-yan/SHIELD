@@ -11,12 +11,20 @@
   <img src="experiments/Inpainting/Kodak/shield_pr.png" width="16%" />
 </p>
 <p>
-(a) GT (∞ / 1) &nbsp;&nbsp;
-(b) Degradation (11.49 / 0.136) &nbsp;&nbsp;
-(c) Dense (31.78 / 0.837) &nbsp;&nbsp;
-(d) SHIELD-P (31.76 / 0.837) &nbsp;&nbsp;
-(e) SHIELD-R (31.52 / 0.820) &nbsp;&nbsp;
-(f) SHIELD-PR (32.08 / 0.838)
+(a) GT  &nbsp;&nbsp;
+(b) Degradation  &nbsp;&nbsp;
+(c) Dense  &nbsp;&nbsp;
+(d) SHIELD-P  &nbsp;&nbsp;
+(e) SHIELD-R  &nbsp;&nbsp;
+(f) SHIELD-PR  
+</p>
+<p>
+(a)  (∞ / 1) &nbsp;&nbsp;
+(b)  (11.49 / 0.136) &nbsp;&nbsp;
+(c)  (31.78 / 0.837) &nbsp;&nbsp;
+(d)  (31.76 / 0.837) &nbsp;&nbsp;
+(e)  (31.52 / 0.820) &nbsp;&nbsp;
+(f)  (32.08 / 0.838)
 </p>
 ---
 
