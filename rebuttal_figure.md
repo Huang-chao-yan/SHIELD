@@ -56,3 +56,61 @@
 </table>
 
 ### Figure. Inpainting results (PSNR/SSIM) with 50\% random masking on datasets Kodak24 (first row) and Tampere17 (second row). From left to right: ground truth, masked input, Dense Noise2Noise, SHIELD-P, SHIELD-R, and SHIELD-PR.
+
+<table style="border:none;">
+  <tr>
+    <td align="center" style="border:none;">
+      <img src="experiments/mixed(gaussian+inpaiting)/Kodak/gt.png" width="160px"><br>
+      <sub>(a) Kodak<br>∞ / 1</sub>
+    </td>
+    <td align="center" style="border:none;">
+      <img src="experiments/mixed(gaussian+inpaiting)/Kodak/degradation.png" width="160px"><br>
+      <sub>(b) Degradation<br>10.27 / 0.073</sub>
+    </td>
+    <td align="center" style="border:none;">
+      <img src="experiments/mixed(gaussian+inpaiting)/Kodak/n2n.png" width="160px"><br>
+      <sub>(c) Dense<br>27.86 / 0.693</sub>
+    </td>
+    <td align="center" style="border:none;">
+      <img src="experiments/mixed(gaussian+inpaiting)/Kodak/shield_p.png" width="160px"><br>
+      <sub>(d) SHIELD-P<br>28.56 / 0.697</sub>
+    </td>
+    <td align="center" style="border:none;">
+      <img src="experiments/mixed(gaussian+inpaiting)/Kodak/shield_r.png" width="160px"><br>
+      <sub>(e) SHIELD-R<br>28.15 / 0.697</sub>
+    </td>
+    <td align="center" style="border:none;">
+      <img src="experiments/mixed(gaussian+inpaiting)/Kodak/shield_pr.png" width="160px"><br>
+      <sub>(f) SHIELD-PR<br>28.65 / 0.715</sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" style="border:none;">
+      <img src="experiments/mixed(gaussian+inpaiting)/Tampere17/gt.png" width="160px"><br>
+      <sub>(a) Tampere17<br>∞ / 1</sub>
+    </td>
+    <td align="center" style="border:none;">
+      <img src="experiments/mixed(gaussian+inpaiting)/Tampere17/degradation.png" width="160px"><br>
+      <sub>(b) Degradation<br>7.59 / 0.021</sub>
+    </td>
+    <td align="center" style="border:none;">
+      <img src="experiments/mixed(gaussian+inpaiting)/Tampere17/n2n.png" width="160px"><br>
+      <sub>(c) Dense<br>29.45 / 0.607</sub>
+    </td>
+    <td align="center" style="border:none;">
+      <img src="experiments/mixed(gaussian+inpaiting)/Tampere17/shield_p.png" width="160px"><br>
+      <sub>(d) SHIELD-P<br>29.88 / 0.631</sub>
+    </td>
+    <td align="center" style="border:none;">
+      <img src="experiments/mixed(gaussian+inpaiting)/Tampere17/shield_r.png" width="160px"><br>
+      <sub>(e) SHIELD-R<br>30.07 / 0.641</sub>
+    </td>
+    <td align="center" style="border:none;">
+      <img src="experiments/mixed(gaussian+inpaiting)/Tampere17/shield_pr.png" width="160px"><br>
+      <sub>(f) SHIELD-PR<br>30.23 / 0.643</sub>
+    </td>
+  </tr>
+</table>
+
+### Figure. Mixed Degradation (Gaussian noise ($\sigma$ = 25) with 50\% random masking ) results (PSNR/SSIM) on datasets Kodak24 (first row) and Tampere17 (second row). From left to right: ground truth, masked input, Dense Noise2Noise, SHIELD-P, SHIELD-R, and SHIELD-PR.
