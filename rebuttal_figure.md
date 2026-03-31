@@ -139,38 +139,38 @@
   <!-- Row 2 -->
   <tr>
     <td align="center" style="border:none;">
-      <img src="experiments/Deraining-real-data/rainy-norain-696.png" width="200px"><br>
+      <img src="experiments/Deraining-real-data/rainy-norain-696.png" width="240px"><br>
       <sub>(a) Rainy<br>5.2628 / 5.4148</sub>
     </td>
     <td align="center" style="border:none;">
-      <img src="experiments/Deraining-real-data/N2V-deraining-norain-696.png" width="200px"><br>
+      <img src="experiments/Deraining-real-data/N2V-deraining-norain-696.png" width="240px"><br>
       <sub>(b) N2V<br>6.6050 / 5.5473</sub>
     </td>
     <td align="center" style="border:none;">
-      <img src="experiments/Deraining-real-data/R2A-deraining-norain-696.png" width="200px"><br>
+      <img src="experiments/Deraining-real-data/R2A-deraining-norain-696.png" width="240px"><br>
       <sub>(c) R2A<br>4.2619 / 5.0264</sub>
     </td>
     <td align="center" style="border:none;">
-      <img src="experiments/Deraining-real-data/PR-deraining-norain-696.png" width="200px"><br>
+      <img src="experiments/Deraining-real-data/PR-deraining-norain-696.png" width="240px"><br>
       <sub>(d) SHIELD-PR<br>4.0698 / 4.7136</sub>
     </td>
   </tr>
   <!-- Row 4 -->
   <tr>
     <td align="center" style="border:none;">
-      <img src="experiments/Deraining-real-data/rainy-norain-91.png" width="200px"><br>
+      <img src="experiments/Deraining-real-data/rainy-norain-91.png" width="240px"><br>
       <sub>(a) Rainy<br>7.6977 / 6.8713</sub>
     </td>
     <td align="center" style="border:none;">
-      <img src="experiments/Deraining-real-data/N2V-deraining-norain-91.png" width="200px"><br>
+      <img src="experiments/Deraining-real-data/N2V-deraining-norain-91.png" width="240px"><br>
       <sub>(b) N2V<br>8.3387 / 7.0712</sub>
     </td>
     <td align="center" style="border:none;">
-      <img src="experiments/Deraining-real-data/R2A-deraining-norain-91.png" width="200px"><br>
+      <img src="experiments/Deraining-real-data/R2A-deraining-norain-91.png" width="240px"><br>
       <sub>(c) R2A<br>6.9029 / 6.6334</sub>
     </td>
     <td align="center" style="border:none;">
-      <img src="experiments/Deraining-real-data/PR-deraining-norain-91.png" width="200px"><br>
+      <img src="experiments/Deraining-real-data/PR-deraining-norain-91.png" width="240px"><br>
       <sub>(d) SHIELD-PR<br>6.5475 / 6.3197</sub>
     </td>
   </tr>
