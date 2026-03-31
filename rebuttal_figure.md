@@ -116,8 +116,8 @@
       <img src="SOTA-Denoising-results/SITCOM-Set14-denoising-results/result_image_006_bestpsnr.png" width="240px"><br>
       <sub>(g) SITCOM<br>24.52 / 0.707</sub>
     </td>
-    <td align="center" style="border:none;">
-      <img src="experiments/n2n/img_007_SRF_2_HR.png" width="140px"><br>
+    <td align="center" style="border:none;width:12.5%;">
+      <img src="experiments/n2n/img_007_SRF_2_HR.png" width:100%"><br>
       <sub>(h) SHIELD-PR<br>27.77 / 0.813</sub>
     </td>
   </tr>
