@@ -33,14 +33,14 @@
 
 #
 
-### Table D. Distribution mismatch (XENA and BSD300) denoising results (PSNR/SSIM).
+### Table D. Distribution mismatch (XENA and BSDS300) denoising results (PSNR/SSIM).
 
 > **Bold** = best, _italic_ = second-best
 
 | Train  | Test  | Noisy        | Dense        | SHIELD-P     | SHIELD-R     | SHIELD-PR     |
 |--------|-------|-------------|-------------|-------------|-------------|--------------|
-| XENA   | BSD300| 20.52/0.422 | 16.83/0.827 | 16.88/0.815 | *17.12/0.837* | **18.09/0.840**  |
-| BSD300 | XENA  | 21.61/0.325 | 25.29/0.546 | 25.37/0.545 | *26.27/0.617* | **26.50/0.634**  |
+| XENA   | BSDS300| 20.52/0.422 | 16.83/0.827 | 16.88/0.815 | *17.12/0.837* | **18.09/0.840**  |
+| BSDS300 | XENA  | 21.61/0.325 | 25.29/0.546 | 25.37/0.545 | *26.27/0.617* | **26.50/0.634**  |
 
 #
 
