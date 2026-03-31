@@ -109,7 +109,7 @@
       <sub>(c) N2N<br>23.32 / 0.685</sub>
     </td>
     <td align="center" style="border:none;">
-      <img src="experiments/AP-BSN/AP-BSN_set14/0036_N.png" width="140px"><br>
+      <img src="SOTA-Denoising-results/AP-BSN/AP-BSN_set14/0036_N.png" width="140px"><br>
       <sub>(d) AP-BSN<br>22.53 / 0.672</sub>
     </td>
   </tr>
@@ -117,15 +117,15 @@
   <!-- Row 2 -->
   <tr>
     <td align="center" style="border:none;">
-      <img src="experiments/PUCA/puca_tampere17_sig25_best_set14/test_manual_03-29-13-07-40/0038_N.png" width="140px"><br>
+      <img src="SOTA-Denoising-results/PUCA/puca_tampere17_sig25_best_set14/test_manual_03-29-13-07-40/0038_N.png" width="140px"><br>
       <sub>(e) PUCA<br>23.36 / 0.664</sub>
     </td>
     <td align="center" style="border:none;">
-      <img src="experiments/UGoDIT/UGoDIT-denoising-Set14-results/flowers_recon_ema.png" width="140px"><br>
+      <img src="SOTA-Denoising-results/UGoDIT-denoising-Set14-results/flowers_recon_ema.png" width="140px"><br>
       <sub>(f) UGoDIT<br>23.94 / 0.631</sub>
     </td>
     <td align="center" style="border:none;">
-      <img src="experiments/SITCOM/SITCOM-Set14-denoising-results/result_image_006_bestpsnr.png" width="140px"><br>
+      <img src="SOTA-Denoising-results/SITCOM-Set14-denoising-results/result_image_006_bestpsnr.png" width="140px"><br>
       <sub>(g) SITCOM<br>24.52 / 0.707</sub>
     </td>
     <td align="center" style="border:none;">
