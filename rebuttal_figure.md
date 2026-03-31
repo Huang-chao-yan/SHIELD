@@ -49,7 +49,7 @@
 
 ### Figure A. Visual comparisons on real-world noisy images. (a) Input images, followed by results from (b) Dense N2N, (c) SHIELD-P, (d) SHIELD-R, and (e) SHIELD-PR.
 
-可以加宽每张图的宽度吗？为什么他固定了呢<table style="border:none;">
+<table style="border:none;">
 
   <!-- Row 1 -->
   <tr>
