@@ -8,6 +8,8 @@
 | Kodak24   | 20.44/0.350 | 25.16/0.692 | 25.49/0.675 | 27.20/0.699 | 24.57/0.627 | 27.06/0.678 | 28.35/0.756 | **30.82**/*0.838* | *30.58*/**0.839** |
 | Set14     | 20.59/0.436 | 22.67/0.644 | 22.13/0.602 | 24.45/0.625 | 25.16/0.707 | 26.50/0.724 | 26.43/0.748 | *28.57*/*0.813* | **28.67**/**0.824** |
 
+#
+
 ### Table B. Quantitative comparison on synthetic (Rain100L) and real-world (SPA) deraining datasets. PSNR/SSIM are reported for Rain100L, and NIQE/PI for SPA.
 > **Bold** = best, _italic_ = second-best
 
@@ -16,6 +18,7 @@
 | Rain100L (PSNR↑ / SSIM↑)                  | 25.52/0.814 | 24.67/0.766 | *26.97/0.828*    | **29.07/0.897**     |
 | SPA (NIQE↓ / PI↓)                         | 7.148/6.358 | 7.586/6.665 | *6.801/6.177*    | **6.303/5.715**     |
 
+#
 
 ### Table C. Quantitative comparison (PSNR/SSIM) under mixed degradation settings. We evaluate inpainting (50\% random mask) + Gaussian noise ($\sigma=25$) and super-resolution ($\times2$) + Gaussian noise ($\sigma=25$). 
 
@@ -28,6 +31,8 @@
 | SR         | Tampere17  | 19.51/0.328 | 25.26/0.666 | 25.31/0.666 | *25.54*/*0.686* | **25.60**/**0.688** |
 |            | Kodak24    | 19.22/0.244 | 24.69/0.642 | 24.75/0.648 | *24.99*/*0.659* | **25.11**/**0.660** |
 
+#
+
 ### Table D. Distribution mismatch (XENA and BSD300) denoising results (PSNR/SSIM).
 
 > **Bold** = best, _italic_ = second-best
@@ -37,7 +42,11 @@
 | XENA   | BSD300| 20.52/0.422 | 16.83/0.827 | 16.88/0.815 | *17.12/0.837* | **18.09/0.840**  |
 | BSD300 | XENA  | 21.61/0.325 | 25.29/0.546 | 25.37/0.545 | *26.27/0.617* | **26.50/0.634**  |
 
+#
+
 ### Table E. Analysis of self-supervised models in quantitative comparison (PSNR/SSIM) of denoising.
+
+#
 
 ### Table F. Quantitative comparison (NIQE) of the real-world noise dataset. 
 
@@ -47,6 +56,8 @@
 |----------|-------------|----------------|----------------|-----------|
 | Real3    | *5.08*      | **4.78**       | 5.33           | 5.17      |
 | Real9    | *5.84*      | 5.99           | **5.66**       | 6.26      |
+
+#
 
 ### Table G. Scalability analysis (PSNR/SSIM) with increasing model size. We compare dense models and SHIELD-PR across different parameter counts, where SHIELD-PR models are obtained by pruning the corresponding dense models.
 
