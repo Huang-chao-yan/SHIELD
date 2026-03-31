@@ -133,6 +133,8 @@
 
 ### Figure B. Denoising results (PSNR/SSIM) for Gaussian noise with $\sigma$ = 25 on Kodak24 (first and second rows) and Set14 (third and fourth rows). (a) ground truth, (b) noise input, and the denoising results (c) Noise2Noise, (d) AP-BSN, (e) PUCA, (f) UGoDIT, (g) SITCOM, and (h) our SHIELD-PR (N2N). 
 
+#
+
 <table style="border:none;">
   <!-- Row 2 -->
   <tr>
@@ -177,7 +179,7 @@
 
 ### Figure C. Visual comparison on real-data image deraining (NIQE$\downarrow$/PI$\downarrow$). From left to right: (a) Rainy Input, (b) Noise2Void, (c) Rain2Avoid, and (d) SHIELD-PR. 
 
-
+#
 
 <table style="border:none;">
   <tr>
@@ -237,6 +239,8 @@
 
 ### Figure D. Inpainting results (PSNR/SSIM) with 50\% random masking on datasets Kodak24 (first row) and Tampere17 (second row). From left to right: ground truth, masked input, Dense Noise2Noise, SHIELD-P, SHIELD-R, and SHIELD-PR.
 
+#
+
 <table style="border:none;">
   <tr>
     <td align="center" style="border:none;">
@@ -294,6 +298,8 @@
 </table>
 
 ### Figure E. Mixed Degradation (Gaussian noise ($\sigma$ = 25) with 50\% random masking ) results (PSNR/SSIM) on datasets Kodak24 (first row) and Tampere17 (second row). From left to right: ground truth, masked input, Dense Noise2Noise, SHIELD-P, SHIELD-R, and SHIELD-PR.
+
+#
 
 <table style="border:none;">
 
