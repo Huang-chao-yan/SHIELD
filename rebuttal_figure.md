@@ -123,14 +123,14 @@
       <sub>(g) SITCOM<br>24.52 / 0.707</sub>
     </td>
     <td align="center" style="border:none;">
-      <img src="experiments/n2n/img_007_SRF_2_HR.png" width="140px"><br>
+      <img src="experiments/n2n/img_007_SRF_2_HR.png" width="240px"><br>
       <sub>(h) SHIELD-PR<br>27.77 / 0.813</sub>
     </td>
   </tr>
 
 </table>
 
-### Figure B. Denoising results (PSNR/SSIM) for Gaussian noise with $\sigma$ = 25 on Kodak24 (first row) and Set14 (second row). (a) ground truth, (b) noise input, and the denoising results (c) Noise2Noise, (d) AP-BSN, (e) PUCA, (f) UGoDIT, (g) SITCOM, and (h) our SHIELD-PR (N2N). 
+### Figure B. Denoising results (PSNR/SSIM) for Gaussian noise with $\sigma$ = 25 on Kodak24 (first and second rows) and Set14 (third and fourth rows). (a) ground truth, (b) noise input, and the denoising results (c) Noise2Noise, (d) AP-BSN, (e) PUCA, (f) UGoDIT, (g) SITCOM, and (h) our SHIELD-PR (N2N). 
 
 <table style="border:none;">
   <!-- Row 2 -->
