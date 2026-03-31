@@ -61,8 +61,8 @@
       <img src="experiments/kodak-noisy25/result_image_020_noisy_sigma25.png" width="240px"><br>
       <sub>(b) Noisy<br>20.26 / 0.353</sub>
     </td>
-    <td align="center" style="border:none;">
-      <img src="experiments/n2n/Kodak/kodim21.png" width="240px"><br>
+    <td align="center" style="border:none;width:12.5%;">
+      <img src="experiments/n2n/Kodak/kodim21.png" width:100%"><br>
       <sub>(c) N2N<br>30.28 / 0.860</sub>
     </td>
     <td align="center" style="border:none;">
