@@ -69,6 +69,9 @@
       <img src="SOTA-Denoising-results/AP-BSN/AP-BSN_kodak/0020_DN_25.03.png" width="240px"><br>
       <sub>(d) AP-BSN<br>25.03 / 0.701</sub>
     </td>
+  </tr>
+
+  <tr>
     <td align="center" style="border:none;">
       <img src="SOTA-Denoising-results/PUCA/puca_tampere17_sig25_best_kodak/test_manual_03-29-13-00-36/0020_DN_24.67.png" width="240px"><br>
       <sub>(e) PUCA<br>24.67 / 0.690</sub>
@@ -104,6 +107,9 @@
       <img src="SOTA-Denoising-results/AP-BSN/AP-BSN_set14/0036_N.png" width="240px"><br>
       <sub>(d) AP-BSN<br>22.53 / 0.672</sub>
     </td>
+  </tr>
+
+  <tr>
     <td align="center" style="border:none;">
       <img src="SOTA-Denoising-results/PUCA/puca_tampere17_sig25_best_set14/test_manual_03-29-13-07-40/0038_N.png" width="240px"><br>
       <sub>(e) PUCA<br>23.36 / 0.664</sub>
