@@ -66,7 +66,7 @@
       <sub>(c) N2N<br>30.28 / 0.860</sub>
     </td>
     <td align="center" style="border:none;">
-      <img src="experiments/AP-BSN/AP-BSN_kodak/0020_DN_25.03.png" width="140px"><br>
+      <img src="SOTA-Denoising-results/AP-BSN/AP-BSN_kodak/0020_DN_25.03.png" width="140px"><br>
       <sub>(d) AP-BSN<br>25.03 / xxxx</sub>
     </td>
   </tr>
@@ -74,15 +74,15 @@
   <!-- Row 2 -->
   <tr>
     <td align="center" style="border:none;">
-      <img src="experiments/PUCA/puca_tampere17_sig25_best_kodak/test_manual_03-29-13-00-36/0020_DN_24.67.png" width="140px"><br>
+      <img src="SOTA-Denoising-results/PUCA/puca_tampere17_sig25_best_kodak/test_manual_03-29-13-00-36/0020_DN_24.67.png" width="140px"><br>
       <sub>(e) PUCA<br>24.67 / 0.690</sub>
     </td>
     <td align="center" style="border:none;">
-      <img src="experiments/UGoDIT/UGoDIT-denoising-Kodak-results/kodim21_recon_ema.png" width="140px"><br>
+      <img src="SOTA-Denoising-results/UGoDIT-denoising-Kodak-results/kodim21_recon_ema.png" width="140px"><br>
       <sub>(f) UGoDIT<br>27.82 / 0.774</sub>
     </td>
     <td align="center" style="border:none;">
-      <img src="experiments/SITCOM/SITCOM-Kodak-denoising-results/result_image_020_bestpsnr.png" width="140px"><br>
+      <img src="SOTA-Denoising-results/SITCOM-Kodak-denoising-results/result_image_020_bestpsnr.png" width="140px"><br>
       <sub>(g) SITCOM<br>26.09 / 0.764</sub>
     </td>
     <td align="center" style="border:none;">
