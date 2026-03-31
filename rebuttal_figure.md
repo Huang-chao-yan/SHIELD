@@ -235,11 +235,11 @@
       <sub>(d) SHIELD-P<br>25.35 / 0.646</sub>
     </td>
     <td align="center" style="border:none;">
-      <img src="experiments/N2N-super-resolution-kodak-results/R-Kodak-SR-results/img_6800_val_10_pred.png" width="140px"><br>
+      <img src="experiments/R-Kodak-SR-results/img_6800_val_10_pred.png" width="140px"><br>
       <sub>(e) SHIELD-R<br>25.34 / 0.645</sub>
     </td>
     <td align="center" style="border:none;">
-      <img src="experiments/N2N-super-resolution-kodak-results/PR-Kodak-SR-results/img_7000_val_10_pred.png" width="140px"><br>
+      <img src="experiments/PR-Kodak-SR-results/img_7000_val_10_pred.png" width="140px"><br>
       <sub>(f) SHIELD-PR<br>27.30 / 0.702</sub>
     </td>
   </tr>
