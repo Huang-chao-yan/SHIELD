@@ -129,7 +129,7 @@
       <sub>(g) SITCOM<br>24.52 / 0.707</sub>
     </td>
     <td align="center" style="border:none;">
-      <img src="experiments/n2n/shield-pr/img_007_SRF_2_HR.png" width="140px"><br>
+      <img src="experiments/n2n/img_007_SRF_2_HR.png" width="140px"><br>
       <sub>(h) SHIELD-PR<br>27.77 / 0.813</sub>
     </td>
   </tr>
