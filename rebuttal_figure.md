@@ -49,8 +49,51 @@
 
 ### Figure A. Visual comparisons on real-world noisy images. (a) Input images, followed by results from (b) Dense N2N, (c) SHIELD-P, (d) SHIELD-R, and (e) SHIELD-PR.
 
+<table style="border:none;">
 
-### Figure B. Denoising results (PSNR/SSIM) for Gaussian noise with $\sigma$ = 25. (a) is the ground truth, (b) is the noise input, and the denoising results are shown for (c) Noise2Noise, (d) AP-BSN, (e) PUCA, (f) UGoDIT, (g) SITCOM, and (h) our SHIELD-PR (N2N). 
+  <!-- Row 1 -->
+  <tr>
+    <td align="center" style="border:none;">
+      <img src="experiments/Kodak-gt/kodim21.png" width="140px"><br>
+      <sub>(a) Kodak24<br>∞ / 1</sub>
+    </td>
+    <td align="center" style="border:none;">
+      <img src="experiments/kodak-noisy25/result_image_020_noisy_sigma25.png" width="140px"><br>
+      <sub>(b) Noisy<br>20.26 / 0.353</sub>
+    </td>
+    <td align="center" style="border:none;">
+      <img src="experiments/n2n/Kodak/kodim21.png" width="140px"><br>
+      <sub>(c) N2N<br>30.28 / 0.860</sub>
+    </td>
+    <td align="center" style="border:none;">
+      <img src="experiments/AP-BSN/AP-BSN_kodak/0020_DN_25.03.png" width="140px"><br>
+      <sub>(d) AP-BSN<br>25.03 / xxxx</sub>
+    </td>
+  </tr>
+
+  <!-- Row 2 -->
+  <tr>
+    <td align="center" style="border:none;">
+      <img src="experiments/PUCA/puca_tampere17_sig25_best_kodak/test_manual_03-29-13-00-36/0020_DN_24.67.png" width="140px"><br>
+      <sub>(e) PUCA<br>24.67 / 0.690</sub>
+    </td>
+    <td align="center" style="border:none;">
+      <img src="experiments/UGoDIT/UGoDIT-denoising-Kodak-results/kodim21_recon_ema.png" width="140px"><br>
+      <sub>(f) UGoDIT<br>27.82 / 0.774</sub>
+    </td>
+    <td align="center" style="border:none;">
+      <img src="experiments/SITCOM/SITCOM-Kodak-denoising-results/result_image_020_bestpsnr.png" width="140px"><br>
+      <sub>(g) SITCOM<br>26.09 / 0.764</sub>
+    </td>
+    <td align="center" style="border:none;">
+      <img src="experiments/kodak-20-shieldPR.png" width="140px"><br>
+      <sub>(h) SHIELD-PR<br>32.29 / 0.864</sub>
+    </td>
+  </tr>
+
+</table>
+
+### Figure B. Denoising results (PSNR/SSIM) for Gaussian noise with $\sigma$ = 25. (a) ground truth, (b) noise input, and the denoising results are shown for (c) Noise2Noise, (d) AP-BSN, (e) PUCA, (f) UGoDIT, (g) SITCOM, and (h) our SHIELD-PR (N2N). 
 
 <table style="border:none;">
   <!-- Row 2 -->
