@@ -49,6 +49,7 @@
 
 ### Figure A. Visual comparisons on real-world noisy images. (a) Input images, followed by results from (b) Dense N2N, (c) SHIELD-P, (d) SHIELD-R, and (e) SHIELD-PR.
 
+# 
 <table style="border:none;">
 
   <!-- Row 1 -->
