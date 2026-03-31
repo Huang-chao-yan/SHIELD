@@ -49,75 +49,75 @@
 
 ### Figure A. Visual comparisons on real-world noisy images. (a) Input images, followed by results from (b) Dense N2N, (c) SHIELD-P, (d) SHIELD-R, and (e) SHIELD-PR.
 
-<table style="border:none;">
+可以加宽每张图的宽度吗？为什么他固定了呢<table style="border:none;">
 
   <!-- Row 1 -->
   <tr>
-    <td align="center" style="border:none;width:12.5%;">
-      <img src="experiments/Kodak-gt/kodim21.png" width:100%"><br>
+    <td align="center" style="border:none;">
+      <img src="experiments/Kodak-gt/kodim21.png" width="240px"><br>
       <sub>(a) Kodak24<br>∞ / 1</sub>
     </td>
-    <td align="center" style="border:none;width:12.5%;">
-      <img src="experiments/kodak-noisy25/result_image_020_noisy_sigma25.png" width:100%"><br>
+    <td align="center" style="border:none;">
+      <img src="experiments/kodak-noisy25/result_image_020_noisy_sigma25.png" width="240px"><br>
       <sub>(b) Noisy<br>20.26 / 0.353</sub>
     </td>
-    <td align="center" style="border:none;width:12.5%;">
-      <img src="experiments/n2n/Kodak/kodim21.png" width:100%"><br>
+    <td align="center" style="border:none;">
+      <img src="experiments/n2n/Kodak/kodim21.png" width="240px"><br>
       <sub>(c) N2N<br>30.28 / 0.860</sub>
     </td>
-    <td align="center" style="border:none;width:12.5%;">
-      <img src="SOTA-Denoising-results/AP-BSN/AP-BSN_kodak/0020_DN_25.03.png" width:100%"><br>
+    <td align="center" style="border:none;">
+      <img src="SOTA-Denoising-results/AP-BSN/AP-BSN_kodak/0020_DN_25.03.png" width="240px"><br>
       <sub>(d) AP-BSN<br>25.03 / 0.701</sub>
     </td>
-    <td align="center" style="border:none;width:12.5%;">
-      <img src="SOTA-Denoising-results/PUCA/puca_tampere17_sig25_best_kodak/test_manual_03-29-13-00-36/0020_DN_24.67.png" width:100%"><br>
+    <td align="center" style="border:none;">
+      <img src="SOTA-Denoising-results/PUCA/puca_tampere17_sig25_best_kodak/test_manual_03-29-13-00-36/0020_DN_24.67.png" width="240px"><br>
       <sub>(e) PUCA<br>24.67 / 0.690</sub>
     </td>
-    <td align="center" style="border:none;width:12.5%;">
-      <img src="SOTA-Denoising-results/UGoDIT-denoising-Kodak-results/kodim21_recon_ema.png" width:100%"><br>
+    <td align="center" style="border:none;">
+      <img src="SOTA-Denoising-results/UGoDIT-denoising-Kodak-results/kodim21_recon_ema.png" width="240px"><br>
       <sub>(f) UGoDIT<br>27.82 / 0.774</sub>
     </td>
-    <td align="center" style="border:none;width:12.5%;">
-      <img src="SOTA-Denoising-results/SITCOM-Kodak-denoising-results/result_image_020_bestpsnr.png" width:100%"><br>
+    <td align="center" style="border:none;">
+      <img src="SOTA-Denoising-results/SITCOM-Kodak-denoising-results/result_image_020_bestpsnr.png" width="240px"><br>
       <sub>(g) SITCOM<br>26.09 / 0.764</sub>
     </td>
-    <td align="center" style="border:none;width:12.5%;">
-      <img src="experiments/kodak-20-shieldPR.png" width:100%"><br>
+    <td align="center" style="border:none;">
+      <img src="experiments/kodak-20-shieldPR.png" width="240px"><br>
       <sub>(h) SHIELD-PR<br>32.29 / 0.864</sub>
     </td>
   </tr>
 
   <tr>
-    <td align="center" style="border:none;width:12.5%;">
-      <img src="experiments/Set14-GT/flowers.png" width:100%"><br>
+    <td align="center" style="border:none;">
+      <img src="experiments/Set14-GT/flowers.png" width="240px"><br>
       <sub>(a) Set14<br>∞ / 1</sub>
     </td>
-    <td align="center" style="border:none;width:12.5%;">
-      <img src="experiments/set14-noisy25/result_image_006_noisy_sigma25.png"width:100%"><br>
+    <td align="center" style="border:none;">
+      <img src="experiments/set14-noisy25/result_image_006_noisy_sigma25.png" width="240px"><br>
       <sub>(b) Noisy<br>20.58 / 0.441</sub>
     </td>
-    <td align="center" style="border:none;width:12.5%;">
-      <img src="experiments/n2n/set/img_007_SRF_2_LR.png" width:100%"><br>
+    <td align="center" style="border:none;">
+      <img src="experiments/n2n/set/img_007_SRF_2_LR.png" width="240px"><br>
       <sub>(c) N2N<br>23.32 / 0.685</sub>
     </td>
-    <td align="center" style="border:none;width:12.5%;">
-      <img src="SOTA-Denoising-results/AP-BSN/AP-BSN_set14/0036_N.png" width:100%"><br>
+    <td align="center" style="border:none;">
+      <img src="SOTA-Denoising-results/AP-BSN/AP-BSN_set14/0036_N.png" width="240px"><br>
       <sub>(d) AP-BSN<br>22.53 / 0.672</sub>
     </td>
-    <td align="center" style="border:none;width:12.5%;">
-      <img src="SOTA-Denoising-results/PUCA/puca_tampere17_sig25_best_set14/test_manual_03-29-13-07-40/0038_N.png" width:100%"><br>
+    <td align="center" style="border:none;">
+      <img src="SOTA-Denoising-results/PUCA/puca_tampere17_sig25_best_set14/test_manual_03-29-13-07-40/0038_N.png" width="240px"><br>
       <sub>(e) PUCA<br>23.36 / 0.664</sub>
     </td>
-    <td align="center" style="border:none;width:12.5%;">
-      <img src="SOTA-Denoising-results/UGoDIT-denoising-Set14-results/flowers_recon_ema.png" width:100%"><br>
+    <td align="center" style="border:none;">
+      <img src="SOTA-Denoising-results/UGoDIT-denoising-Set14-results/flowers_recon_ema.png" width="240px"><br>
       <sub>(f) UGoDIT<br>23.94 / 0.631</sub>
     </td>
-    <td align="center" style="border:none;width:12.5%;">
-      <img src="SOTA-Denoising-results/SITCOM-Set14-denoising-results/result_image_006_bestpsnr.png" width:100%"><br>
+    <td align="center" style="border:none;">
+      <img src="SOTA-Denoising-results/SITCOM-Set14-denoising-results/result_image_006_bestpsnr.png" width="240px"><br>
       <sub>(g) SITCOM<br>24.52 / 0.707</sub>
     </td>
-    <td align="center" style="border:none;width:12.5%;">
-      <img src="experiments/n2n/img_007_SRF_2_HR.png" width:100%"><br>
+    <td align="center" style="border:none;">
+      <img src="experiments/n2n/img_007_SRF_2_HR.png" width="140px"><br>
       <sub>(h) SHIELD-PR<br>27.77 / 0.813</sub>
     </td>
   </tr>
