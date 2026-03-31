@@ -87,10 +87,6 @@
     </td>
   </tr>
 
-</table>
-<table style="border:none;">
-
-  <!-- Row 1 -->
   <tr>
     <td align="center" style="border:none;">
       <img src="experiments/Set14-GT/flowers.png" width="140px"><br>
@@ -108,10 +104,6 @@
       <img src="SOTA-Denoising-results/AP-BSN/AP-BSN_set14/0036_N.png" width="140px"><br>
       <sub>(d) AP-BSN<br>22.53 / 0.672</sub>
     </td>
-  </tr>
-
-  <!-- Row 2 -->
-  <tr>
     <td align="center" style="border:none;">
       <img src="SOTA-Denoising-results/PUCA/puca_tampere17_sig25_best_set14/test_manual_03-29-13-07-40/0038_N.png" width="140px"><br>
       <sub>(e) PUCA<br>23.36 / 0.664</sub>
